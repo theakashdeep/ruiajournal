@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43107951469",
+    "firebase_url": "https://ruia-journal-66a41.firebaseio.com",
+    "project_id": "ruia-journal-66a41",
+    "storage_bucket": "ruia-journal-66a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43107951469:android:2dd62fc2565cc45da43064",
+        "android_client_info": {
+          "package_name": "com.sky.ruiajournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43107951469-27bpghsa8ejoobn210j0uq9k5dso6rcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdpqLk2lIPf_t_KxJzoyq7ykdyLyZAJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43107951469-27bpghsa8ejoobn210j0uq9k5dso6rcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
